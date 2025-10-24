@@ -1,5 +1,5 @@
 # Shivani Rao  
-🎓 M.S. Computer Science at University of Southern California (USC)
+🎓 M.S. Computer Science @ University of Southern California (USC)
 
 ---
 

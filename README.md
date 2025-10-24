@@ -45,7 +45,7 @@ Currently, I’m expanding my expertise in **Artificial Intelligence and Machine
 
 💼 **LinkedIn:** [linkedin.com/in/shivani-rao-977b691a3](https://www.linkedin.com/in/shivani-rao-977b691a3)  
 📧 **Email:** raoshiva@usc.edu  
-🌐 **GitHub:** [github.com/shivani-rao-977b691a3](https://github.com/shivani-rao-977b691a3)  
+🌐 **GitHub:** [github.com/Shivanirao2000](https://github.com/Shivanirao2000)  
 
 ---
 

@@ -4,7 +4,7 @@
 ---
 
 ## 💡 About Me  
-I’m a Computer Science graduate student at USC with 3 years of professional experience in software development, cloud infrastructure, and data analytics.  
+I’m a Computer Science graduate student at USC with 2 years of professional experience in software development, cloud infrastructure, and building data pipelines.  
 
 I’ve worked on full-stack and backend systems that solve real-world problems with a focus on **scalability, reliability, and network efficiency** using AWS and Azure.  
 

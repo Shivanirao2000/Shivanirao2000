@@ -1,49 +1,32 @@
-# Shivani Rao  
-🎓 M.S. Computer Science @ University of Southern California (USC)
+<h1 align="center">Hi there, I'm Shivani Rao</h1>
+<h3 align="center">M.S. Computer Science @ University of Southern California</h3>
 
 ---
 
-## 💡 About Me  
-I’m a Computer Science graduate student at USC with 2 years of professional experience in software development, cloud infrastructure, and building data pipelines.  
-
-I’ve worked on full-stack and backend systems that solve real-world problems with a focus on **scalability, reliability, and network efficiency** using AWS and Azure.  
-
-Currently, I’m expanding my expertise in Artificial Intelligence and Machine Learning, exploring how **LLMs, Prompt Engineering, NLP, and Generative AI** can enhance cloud-native and intelligent system design.
+### 💡 About Me  
+I'm a **Computer Science graduate student at USC**, focused on **systems software — operating systems, low-level C/C++, networking, and performance engineering.**
+I enjoy working beneath the abstraction, on kernels, memory allocators, and network protocols where correctness and performance matter, and I'm looking for general SWE and systems-focused roles.
 
 ---
 
-## ⚙️ Technical Interests  
-💻 **Software Engineering & Systems Design** – Backend APIs, distributed systems, full-stack development, microservices, RESTful architectures  
-☁️ **Cloud & DevOps** – AWS, Azure, Docker, Kubernetes, CI/CD, Infrastructure as Code, automation pipelines  
-🧠 **Artificial Intelligence & Machine Learning** – LLMs, NLP, Generative AI, deep learning, prompt engineering, model evaluation  
-📊 **Data Engineering & Analytics** – ETL pipelines, SQL/NoSQL, data visualization, feature engineering, analytics dashboards  
-🌐 **Web & Application Development** – FastAPI, Flask, React, Node.js, serverless computing, real-time apps  
-🌐 **Computer Networking & Protocol Design** – Custom protocol development, reliable data transfer mechanisms, TCP/UDP optimization, congestion control, and performance tuning in unreliable networks  
-🧰 **Programming Languages** – Python, Java, JavaScript, SQL, TypeScript  
+### ⚙️ Technical Interests
+- 🧰 **Software Engineering & Programming** – C, C++20, Python, object-oriented design, data structures & algorithms, clean and well-tested code
+- ⚙️ **Operating Systems & Low-Level** – kernel internals, virtual memory, scheduling, POSIX concurrency, synchronization, manual memory management
+- 🌐 **Networking** – TCP/UDP, socket programming, reliable data transfer, congestion control, low-latency I/O
+- ⚡ **Performance Engineering** – memory allocators, benchmarking, profiling, sanitizers (ASan/UBSan/Valgrind), tuning hot paths for latency and throughput
+- ☁️ **Cloud & Tooling** – Linux, Git, GitHub Actions CI, Docker, Azure
 
 ---
 
-## 🧠 Currently Exploring  
-🚀 Advanced Prompt Engineering and LLM application design  
-🤖 Integrating AI agents into cloud-based microservices  
-🧩 Building intelligent, data-driven software systems  
-📈 Scalable deployment of ML workflows on AWS and Azure  
-🌐 Enhancing network protocol design and low-latency cloud communication systems
+### 🛠️ Languages & Tools  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,cmake,git,docker,azure,vscode&perline=8" />
+</p>
 
 ---
 
-## 🛠️ Languages & Tools  
-**Languages:** Python, Java, JavaScript, TypeScript, SQL  
-**Frameworks:** FastAPI, Flask, React, Node.js  
-**AI/ML Tools:** PyTorch, TensorFlow, Scikit-learn, LangChain, Hugging Face  
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions, Linux  
-**Networking Tools & Concepts:** Socket Programming, TCP/UDP, Wireshark, Network Simulation, Protocol Debugging  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Others:** Git, Postman, VS Code, Jupyter  
-
----
-
-## 📫 Let’s Connect  
-💼 LinkedIn: [linkedin.com/in/shivani-rao-977b691a3](https://www.linkedin.com/in/shivani-rao-977b691a3)  
-📧 Email: raoshiva@usc.edu  
-🌐 GitHub: [github.com/Shivanirao2000](https://github.com/Shivanirao2000)
+### 📫 Let's Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivani-rao-977b691a3)  
+- 📧 raoshiva@usc.edu
+- 📧 shivanirao2000@gmail.com
